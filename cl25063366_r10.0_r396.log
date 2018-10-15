@@ -1,0 +1,282 @@
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rconv -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rdgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rwgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -Rbgrad -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pinh -Pouth -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn0 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouth -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn0 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pinh -Pouts -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn0 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouts -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn0 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pins -Pouth -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn0 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouth -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn0 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pins -Pouts -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn0 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouts -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn0 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pinh -Pouth -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn1 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouth -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn1 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pinh -Pouts -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn1 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouts -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn1 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pins -Pouth -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn1 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouth -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn1 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pins -Pouts -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn1 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouts -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn1 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pinh -Pouth -Pcomps -N5 -A1 -B0 -b -dim2 -dimA30,128,512 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouth -Pcomps -N5 -A1 -B0 -b -dim2 -dimA30,128,512 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pinh -Pouts -Pcomps -N5 -A1 -B0 -b -dim2 -dimA30,128,512 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouts -Pcomps -N5 -A1 -B0 -b -dim2 -dimA30,128,512 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pins -Pouth -Pcomps -N5 -A1 -B0 -b -dim2 -dimA30,128,512 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouth -Pcomps -N5 -A1 -B0 -b -dim2 -dimA30,128,512 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pins -Pouts -Pcomps -N5 -A1 -B0 -b -dim2 -dimA30,128,512 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouts -Pcomps -N5 -A1 -B0 -b -dim2 -dimA30,128,512 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pinh -Pouth -Pcomps -N5 -A1 -B0 -b -dim3 -dimA64,64,64,64,64 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouth -Pcomps -N5 -A1 -B0 -b -dim3 -dimA64,64,64,64,64 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pinh -Pouts -Pcomps -N5 -A1 -B0 -b -dim3 -dimA64,64,64,64,64 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouts -Pcomps -N5 -A1 -B0 -b -dim3 -dimA64,64,64,64,64 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pins -Pouth -Pcomps -N5 -A1 -B0 -b -dim3 -dimA64,64,64,64,64 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouth -Pcomps -N5 -A1 -B0 -b -dim3 -dimA64,64,64,64,64 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pins -Pouts -Pcomps -N5 -A1 -B0 -b -dim3 -dimA64,64,64,64,64 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouts -Pcomps -N5 -A1 -B0 -b -dim3 -dimA64,64,64,64,64 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pinh -Pouth -Pcomps -N5 -A1 -B0 -b -dim4 -dimA8,32,32,32,32,32 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouth -Pcomps -N5 -A1 -B0 -b -dim4 -dimA8,32,32,32,32,32 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pinh -Pouts -Pcomps -N5 -A1 -B0 -b -dim4 -dimA8,32,32,32,32,32 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouts -Pcomps -N5 -A1 -B0 -b -dim4 -dimA8,32,32,32,32,32 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pins -Pouth -Pcomps -N5 -A1 -B0 -b -dim4 -dimA8,32,32,32,32,32 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouth -Pcomps -N5 -A1 -B0 -b -dim4 -dimA8,32,32,32,32,32 -csv -d0
+&&&& RUNNING cudnnTest -Rtransform -Pins -Pouts -Pcomps -N5 -A1 -B0 -b -dim4 -dimA8,32,32,32,32,32 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouts -Pcomps -N5 -A1 -B0 -b -dim4 -dimA8,32,32,32,32,32 -csv -d0
+&&&& RUNNING cudnnTest -dimA1,64,128,128 -filtA64,1,3,3 -groupCount64 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,64,128,128 -filtA64,1,3,3 -groupCount64 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,128,128,128 -filtA128,1,3,3 -groupCount128 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,128,128,128 -filtA128,1,3,3 -groupCount128 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,256,128,128 -filtA256,1,3,3 -groupCount256 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,256,128,128 -filtA256,1,3,3 -groupCount256 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,512,128,128 -filtA512,1,3,3 -groupCount512 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,512,128,128 -filtA512,1,3,3 -groupCount512 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,1024,128,128 -filtA1024,1,3,3 -groupCount1024 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,1024,128,128 -filtA1024,1,3,3 -groupCount1024 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,64,64,64 -filtA64,1,3,3 -groupCount64 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,64,64,64 -filtA64,1,3,3 -groupCount64 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,128,64,64 -filtA128,1,3,3 -groupCount128 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,128,64,64 -filtA128,1,3,3 -groupCount128 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,256,64,64 -filtA256,1,3,3 -groupCount256 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,256,64,64 -filtA256,1,3,3 -groupCount256 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,512,64,64 -filtA512,1,3,3 -groupCount512 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,512,64,64 -filtA512,1,3,3 -groupCount512 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,1024,64,64 -filtA1024,1,3,3 -groupCount1024 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,1024,64,64 -filtA1024,1,3,3 -groupCount1024 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,64,32,32 -filtA64,1,3,3 -groupCount64 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,64,32,32 -filtA64,1,3,3 -groupCount64 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,128,32,32 -filtA128,1,3,3 -groupCount128 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,128,32,32 -filtA128,1,3,3 -groupCount128 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,256,32,32 -filtA256,1,3,3 -groupCount256 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,256,32,32 -filtA256,1,3,3 -groupCount256 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,512,32,32 -filtA512,1,3,3 -groupCount512 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,512,32,32 -filtA512,1,3,3 -groupCount512 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,1024,32,32 -filtA1024,1,3,3 -groupCount1024 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,1024,32,32 -filtA1024,1,3,3 -groupCount1024 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,64,16,16 -filtA64,1,3,3 -groupCount64 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,64,16,16 -filtA64,1,3,3 -groupCount64 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,128,16,16 -filtA128,1,3,3 -groupCount128 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,128,16,16 -filtA128,1,3,3 -groupCount128 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,256,16,16 -filtA256,1,3,3 -groupCount256 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,256,16,16 -filtA256,1,3,3 -groupCount256 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,512,16,16 -filtA512,1,3,3 -groupCount512 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,512,16,16 -filtA512,1,3,3 -groupCount512 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,1024,16,16 -filtA1024,1,3,3 -groupCount1024 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,1024,16,16 -filtA1024,1,3,3 -groupCount1024 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,64,6,6 -filtA64,1,3,3 -groupCount64 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,64,6,6 -filtA64,1,3,3 -groupCount64 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,128,6,6 -filtA128,1,3,3 -groupCount128 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,128,6,6 -filtA128,1,3,3 -groupCount128 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,256,6,6 -filtA256,1,3,3 -groupCount256 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,256,6,6 -filtA256,1,3,3 -groupCount256 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,512,6,6 -filtA512,1,3,3 -groupCount512 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,512,6,6 -filtA512,1,3,3 -groupCount512 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& RUNNING cudnnTest -dimA1,1024,6,6 -filtA1024,1,3,3 -groupCount1024 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
+&&&& FAILED cudnnTest -dimA1,1024,6,6 -filtA1024,1,3,3 -groupCount1024 -Rconv -algo1 -formatIn1 -formatOut1 -filtFormat1 -pad_h1 -pad_w1 -u1 -v1 -A1 -B0 -b -csv -d0
