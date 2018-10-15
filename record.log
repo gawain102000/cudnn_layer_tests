@@ -1,3 +1,4 @@
 t20181015_064303_c25063366_r10.0_r396.log cudnn::25063366::2018/10/09::TITAN X (Pascal)::10.0::
 t20181015_073121_c25078939_r10.0_r396.log cudnn::25078939::2018/10/12::TITAN X (Pascal)::10.0::Linux-3.16.0-30-generic-x86_64-with-Ubuntu-14.04-trusty::abc::
 t20181015_073611_c25078939_r10.0_r396.log cudnn::25078939::2018/10/12::TITAN X (Pascal)::10.0::Linux-3.16.0-30-generic-x86_64-with-Ubuntu-14.04-trusty::x86_64::
+t20181015_073841_c25078939_r10.0_r396.log cudnn::25078939::2018/10/12::TITAN X (Pascal)::10.0::Linux-3.16.0-30-generic-x86_64-with-Ubuntu-14.04-trusty::x86_64::Linux::
