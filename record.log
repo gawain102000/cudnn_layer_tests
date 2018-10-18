@@ -9,3 +9,4 @@ t20181018_081025_c25100979_r10.0_r418_test.log::25100979::2018/10/17::Tesla P4::
 t20181018_124001_c25100979_r10.0_r418_test.log::25100979::2018/10/17::Tesla V100-DGXS-16GB::10.0::Linux-4.4.0-130-generic-x86_64-with-Ubuntu-16.04-xenial::x86_64::Linux::eris-dgsv-t000::418::2372::0::0::2372::cudnn_layer_tests::
 t20181018_135159_c25100979_r10.0_r418_test.log::25100979::2018/10/17::Quadro K5000::10.0::Linux-4.4.0-133-generic-x86_64-with-Ubuntu-16.04-xenial::x86_64::Linux::eris-ub16-t070::418::1998::0::374::2372::cudnn_layer_tests::
 t20181018_142511_c25100979_r10.0_r418_test.log::25100979::2018/10/17::Quadro RTX 5000::10.0::Linux-4.4.0-116-generic-x86_64-with-Ubuntu-16.04-xenial::x86_64::Linux::eris-ub16-t146::418::2235::0::137::2372::cudnn_layer_tests::
+t20181018_163354_c25100499_r10.0_r418_test.log::25100499::2018/10/17::Tesla P40::10.0::Linux-4.4.0-36-generic-x86_64-with-Ubuntu-14.04-trusty::x86_64::Linux::eris-ub14-t028::418::2236::0::136::2372::cudnn_layer_tests::
