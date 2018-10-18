@@ -3,3 +3,4 @@ t20181018_062553_c25100979_r10.0_r418_test.log::25100979::2018/10/17::Quadro K50
 t20181018_065732_c25100979_r10.0_r123456_test.log::25100979::2018/10/17::123456::10.0::Darwin-17.7.0-x86_64-i386-64bit::i386::Darwin::eris-mac-t004::123456::1926::0::50::1976::cudnn_layer_tests::
 t20181018_070519_c25100979_r10.0_r123456_test.log::25100979::2018/10/17::No devices were found::10.0::Linux-4.14.0-49.el7a.ppc64le-ppc64le-with-redhat-7.5-Maipo::ppc64le::Linux::eris-p9-t004::123456::0::20::0::20::cudnn_layer_tests::
 t20181018_071444_c25100499_r10.0_r418_test.log::25100499::2018/10/17::Quadro RTX 6000::10.0::Linux-3.10.0-862.el7.x86_64-x86_64-with-redhat-7.5-Maipo::x86_64::Linux::eris-rh7-t073::418::2371::0::1::2372::cudnn_layer_tests::
+t20181018_073652_c25100979_r10.0_r418_test.log::25100979::2018/10/17::Quadro RTX 5000::10.0::Linux-4.4.0-116-generic-x86_64-with-Ubuntu-16.04-xenial::x86_64::Linux::eris-ub16-t146::418::2235::0::137::2372::cudnn_layer_tests::
