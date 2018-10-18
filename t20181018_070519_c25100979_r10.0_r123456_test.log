@@ -1,0 +1,24 @@
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouth -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn0 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouts -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn0 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouth -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn0 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouts -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn0 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouth -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn1 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouts -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn1 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouth -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn1 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouts -Pcomps -N5 -A1 -B0 -b -n128 -c3 -h224 -w224 -formatIn1 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouth -Pcomps -N5 -A1 -B0 -b -dim2 -dimA30,128,512 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouts -Pcomps -N5 -A1 -B0 -b -dim2 -dimA30,128,512 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouth -Pcomps -N5 -A1 -B0 -b -dim2 -dimA30,128,512 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouts -Pcomps -N5 -A1 -B0 -b -dim2 -dimA30,128,512 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouth -Pcomps -N5 -A1 -B0 -b -dim3 -dimA64,64,64,64,64 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouts -Pcomps -N5 -A1 -B0 -b -dim3 -dimA64,64,64,64,64 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouth -Pcomps -N5 -A1 -B0 -b -dim3 -dimA64,64,64,64,64 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouts -Pcomps -N5 -A1 -B0 -b -dim3 -dimA64,64,64,64,64 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouth -Pcomps -N5 -A1 -B0 -b -dim4 -dimA8,32,32,32,32,32 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pinh -Pouts -Pcomps -N5 -A1 -B0 -b -dim4 -dimA8,32,32,32,32,32 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouth -Pcomps -N5 -A1 -B0 -b -dim4 -dimA8,32,32,32,32,32 -csv -d0
+&&&& FAILED cudnnTest -Rtransform -Pins -Pouts -Pcomps -N5 -A1 -B0 -b -dim4 -dimA8,32,32,32,32,32 -csv -d0
+total_passed: 0
+total_failed: 20
+total_waived: 0
+total_tests: 20
