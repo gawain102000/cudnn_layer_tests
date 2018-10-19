@@ -1,0 +1,5 @@
+&&&& PASSED cudnnTest -Rconv -A1 -B0 -b -dimA16,32,9,9 -filtA32,32,3,3 -padA1,1 -u1 -v1 -n32 -csv -d0
+total_passed: 2371
+total_failed: 0
+total_waived: 1
+total_tests: 2372
