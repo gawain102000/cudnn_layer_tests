@@ -24,3 +24,4 @@ t20181020_072300_c25111036_r10.0_r418_test.log::25111036::2018/10/19::Quadro RTX
 t20181020_093822_c25111036_r10.0_r418_test.log::25111036::2018/10/19::Tesla P4::10.0::Linux-4.4.0-133-generic-x86_64-with-Ubuntu-16.04-xenial::x86_64::Linux::eris-ub16-t108::418::2164::0::210::2374::cudnn_layer_tests::
 t20181021_072425_c25111036_r10.0_r418_test.log::25111036::2018/10/19::Tesla V100-DGXS-16GB::10.0::Linux-4.4.0-130-generic-x86_64-with-Ubuntu-16.04-xenial::x86_64::Linux::eris-dgsv-t000::418::2374::0::0::2374::cudnn_layer_tests::
 t20181127_115124_c25298481_r10.1_r421_test.log::25298481::2018/11/21::Tesla P4::10.1::Linux-4.4.0-133-generic-x86_64-with-Ubuntu-16.04-xenial::x86_64::Linux::eris-ub16-t108::421::1957::0::21::1978::cudnn_layer_tests::
+t20181127_160750_c25307218_r10.1_r421_test.log::25307218::2018/11/23::GeForce RTX 2080::10.1::Linux-4.15.0-30-generic-x86_64-with-Ubuntu-18.04-bionic::x86_64::Linux::eris-ub18-t054::421::1959::0::19::1978::cudnn_layer_tests::

@@ -1,0 +1,5 @@
+&&&& PASSED cudnnTest -gpu0
+total_passed: 1959
+total_failed: 0
+total_waived: 19
+total_tests: 1978
